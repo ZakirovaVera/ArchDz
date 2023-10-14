@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\VNote\\Desktop\\DZ\\Arch\\Dz1_3DModels\\Dz1_3DModels.csproj": {}
+    "C:\\Users\\VNote\\Desktop\\DZ\\Arch\\Dz1_3DModels\\Dz1_3DModels.csproj": {}
   },
   "projects": {
-    "c:\\Users\\VNote\\Desktop\\DZ\\Arch\\Dz1_3DModels\\Dz1_3DModels.csproj": {
+    "C:\\Users\\VNote\\Desktop\\DZ\\Arch\\Dz1_3DModels\\Dz1_3DModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\VNote\\Desktop\\DZ\\Arch\\Dz1_3DModels\\Dz1_3DModels.csproj",
+        "projectUniqueName": "C:\\Users\\VNote\\Desktop\\DZ\\Arch\\Dz1_3DModels\\Dz1_3DModels.csproj",
         "projectName": "Dz1_3DModels",
-        "projectPath": "c:\\Users\\VNote\\Desktop\\DZ\\Arch\\Dz1_3DModels\\Dz1_3DModels.csproj",
+        "projectPath": "C:\\Users\\VNote\\Desktop\\DZ\\Arch\\Dz1_3DModels\\Dz1_3DModels.csproj",
         "packagesPath": "C:\\Users\\VNote\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\VNote\\Desktop\\DZ\\Arch\\Dz1_3DModels\\obj\\",
+        "outputPath": "C:\\Users\\VNote\\Desktop\\DZ\\Arch\\Dz1_3DModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VNote\\AppData\\Roaming\\NuGet\\NuGet.Config",
