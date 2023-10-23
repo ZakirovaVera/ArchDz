@@ -9,7 +9,7 @@ public abstract class Car {
         this.brand = brand;
         this.model = model;
         this.transmitionType = transmitionType;
-        this.weels = weels;
+        // this.weels = weels;
         this.fuelType = fuelType;
     }
 

@@ -6,5 +6,8 @@ public class Main {
         Hyundai hyundai = new Hyundai("elantra", Transmition.manual, FourWeelCar.numWeels, Fuel.Gaz);
         hyundai.swithCondicioner();
         hyundai.swithCondicioner();
+
+        AirCar airCar = new AirCar("Air", Fuel.Diesel);
+        airCar.service();
     }
 }
